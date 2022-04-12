@@ -1,0 +1,26 @@
+{
+  "name": "basic-liquidity-mining",
+  "version": "1.0.0",
+  "description": "a simple implementation of a liquidity pool",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsanwtc/basic-liquidity-pool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsanwtc/basic-liquidity-pool/issues"
+  },
+  "homepage": "https://github.com/ahsanwtc/basic-liquidity-pool#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
