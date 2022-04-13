@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ahsanwtc/basic-liquidity-pool#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.5.0"
+    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/test-helpers": "^0.5.15"
   }
 }
